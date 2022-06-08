@@ -1,0 +1,89 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.recup{
+    font-size: 9px;
+    color: lightgrey;
+}
+
+form {
+    margin: 0 5%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(32, 71, 178);
+}
+
+
+h2{
+    font-weight: normal;
+}
+
+.cgu{
+    color:grey;
+    width: 70%;
+}
+
+.qnaissance{
+    font-size: 9px;
+}
+
+.connexion{
+    width:100%;
+    background-color: #3d5d95;
+    border: 1px color darkblue;
+    padding-bottom: 10px;
+    color:white;
+}
+
+.inscription{
+    padding:5% 0 20% 0;
+}
+#btnConnexion{
+    color:white;
+    background-color: #446cb0;
+    border: 1px solid #2d4c7c;
+    padding: 5px 10px 5px 10px;
+}
+
+#btnInscription{
+    background-color: #749c50;
+    color:white;
+    padding: 7px 40px 7px 40px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 4px; 
+}
+
+table{
+    width:100%;
+}
+
+table td {
+  padding: 2px 5px 2px 2px;
+}
+
+input[type="text"]{
+    width:100%;
+    padding: 5px 0 5px 0;
+    margin: 2px 3px 2px 0;
+}
+
+input[type="number"]{
+    padding: 5px 0 5px 0;
+}
+
+input[type="radio"]{
+    margin: 20px 0 20px 0;
+}
+
+.remplie{
+    margin:0 5%;
+    width:100%;
+}
+
